@@ -1,0 +1,13 @@
+bdys01.com##.col-md-7
+bdys01.com##.col-md-5, .d-none, .d-md-block, .d-lg-block, .d-xl-block, .d-xxl-block
+bdys01.com##.col-12
+bdys01.com###related
+bdys01.com###yalayi
+jubaibai.cc##.onsusibc_b
+https://p1.meituan.net/csc/3e28c05d78f3bf641c62066ff75d5ace98416.gif$domain=jubaibai.cc
+dyxs20.com###dy_card_dy
+dyxs20.com##.player-info
+dyxs20.com###play-pause
+dyxs20.com##.popup, .popup-tips, .popupicon, .open
+dyxs20.com##div.shortcuts-mobile-overlay
+blog.luckly-mjw.cn##.m-p-refer
