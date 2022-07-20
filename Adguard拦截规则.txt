@@ -1,4 +1,4 @@
-[Adguard自定义规则]
+[Adblock Plus 2.0]
 ! Checksum: vXO2skD37egAcrKzRVhe1A
 ! Version: 202207061714
 ! Title: ChinaList+EasyList(修正)
