@@ -1,4 +1,4 @@
-[Adguard自定义拦截规则]
+[uniartisan's Adblock List]
 ! Version: 20220720
 ! Title:  uniartisan's Adblock List
 ! Expires: 1 days (update frequency)
