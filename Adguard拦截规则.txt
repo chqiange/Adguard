@@ -1,11 +1,11 @@
-[Adblock Plus 2.0]
+[Adguard自定义规则]
 ! Checksum: vXO2skD37egAcrKzRVhe1A
 ! Version: 202207061714
-! Title: Adguard自定义规则
+! Title: ChinaList+EasyList(修正)
 ! ChinaList and EasyList combination subscription
 ! Last modified: 03 Feb 2014 03:50 UTC
 ! Expires: 4 days (update frequency)
-! Homepage: http://www.adtchrome.com/extension/adt-chinalist-easylist.html
+! Homepage: https://raw.githubusercontents.com/chqiange/Adguard/main/Adguard%E6%8B%A6%E6%88%AA%E8%A7%84%E5%88%99.txt
 !
 ! *** Fetched from: https://raw.github.com/chinalist/chinalist/master/adblock.txt ***
 !  Adblock Plus List with Main Focus on Chinese Sites.
