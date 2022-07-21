@@ -1,30 +1,19 @@
 [Adblock Plus 2.0]
-! Checksum: vXO2skD37egAcrKzRVhe1A
-! Version: 20220720
+! Version: 20220721
 ! Title: Adguard自定义拦截规则
-! ChinaList and EasyList combination subscription
 ! Last modified: 03 Feb 2014 03:50 UTC
-! Expires: 4 days (update frequency)
 ! Homepage: https://raw.githubusercontents.com/chqiange/Adguard/main/Adguard拦截规则.txt
-!
-! *** Fetched from: https://raw.githubusercontents.com/chqiange/Adguard/main/Adguard拦截规则.txt ***
-!  Adblock Plus List with Main Focus on Chinese Sites.
-!  Last Modified:  Mon, 03 Mar 2014 21:55:44 +0800
-!
-!----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
+
 bdys01.com##.col-md-7
 bdys01.com##.col-md-5, .d-none, .d-md-block, .d-lg-block, .d-xl-block, .d-xxl-block
 bdys01.com##.col-12
 bdys01.com###related
 bdys01.com###yalayi
 jubaibai.cc##.onsusibc_b
-||p1.meituan.net/csc/3e28c05d78f3bf641c62066ff75d5ace98416.gif
+jubaibai.cc##div.container > div.row > div.stui-pannel > div.t-img-box > a
 dyxs20.com###dy_card_dy
 dyxs20.com##.player-info
 dyxs20.com###play-pause
 dyxs20.com##.popup, .popup-tips, .popupicon, .open
 dyxs20.com##div.shortcuts-mobile-overlay
 blog.luckly-mjw.cn##.m-p-refer
-
-||hjfile.cn/analytics/site/TrackEvent.js
-!-- END END ---
