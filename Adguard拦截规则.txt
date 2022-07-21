@@ -18,16 +18,13 @@ bdys01.com##.col-12
 bdys01.com###related
 bdys01.com###yalayi
 jubaibai.cc##.onsusibc_b
-https://p1.meituan.net/csc/3e28c05d78f3bf641c62066ff75d5ace98416.gif$domain=jubaibai.cc
+||p1.meituan.net/csc/3e28c05d78f3bf641c62066ff75d5ace98416.gif
 dyxs20.com###dy_card_dy
 dyxs20.com##.player-info
 dyxs20.com###play-pause
 dyxs20.com##.popup, .popup-tips, .popupicon, .open
 dyxs20.com##div.shortcuts-mobile-overlay
 blog.luckly-mjw.cn##.m-p-refer
-
-!for AdBlok
-jubaibai.cc##A[class="onsusibc_b"][href="https://xcc.ztdzpyf.cn/cc/5488?is_not=1&target=1&ty=1"]
 
 ||hjfile.cn/analytics/site/TrackEvent.js
 !-- END END ---
