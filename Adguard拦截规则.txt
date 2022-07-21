@@ -25,5 +25,9 @@ dyxs20.com###play-pause
 dyxs20.com##.popup, .popup-tips, .popupicon, .open
 dyxs20.com##div.shortcuts-mobile-overlay
 blog.luckly-mjw.cn##.m-p-refer
+
+!for AdBlok
+jubaibai.cc##A[class="onsusibc_b"][href="https://xcc.ztdzpyf.cn/cc/5488?is_not=1&target=1&ty=1"]
+
 ||hjfile.cn/analytics/site/TrackEvent.js
 !-- END END ---
