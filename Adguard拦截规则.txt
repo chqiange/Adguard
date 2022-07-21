@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 20220721
+! Version: 1.0
 ! Title: Adguard自定义拦截规则
-! Last modified: 03 Feb 2014 03:50 UTC
-! Homepage: https://raw.githubusercontents.com/chqiange/Adguard/main/Adguard拦截规则.txt
+! Last modified: 2022/07/21
+! Homepage: https://cdn.jsdelivr.net/gh/chqiange/Adguard@main/Adguard拦截规则.txt
 
 bdys01.com##.col-md-7
 bdys01.com##.col-md-5, .d-none, .d-md-block, .d-lg-block, .d-xl-block, .d-xxl-block
@@ -11,9 +11,11 @@ bdys01.com###related
 bdys01.com###yalayi
 jubaibai.cc##.onsusibc_b
 jubaibai.cc##div.container > div.row > div.stui-pannel > div.t-img-box > a
+dyxs20.com##.popup, .popup-tips, .popupicon, .open
+dyxs20.com##div.shortcuts-mobile-overlay
 dyxs20.com###dy_card_dy
 dyxs20.com##.player-info
 dyxs20.com###play-pause
-dyxs20.com##.popup, .popup-tips, .popupicon, .open
-dyxs20.com##div.shortcuts-mobile-overlay
+dyxs20.com###rm-float
+dyxs20.com##.player-rm rm-two rm-list
 blog.luckly-mjw.cn##.m-p-refer
