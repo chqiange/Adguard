@@ -2,7 +2,7 @@
 ! Version: 1.0
 ! Title: Adguard自定义拦截规则
 ! Last modified: 2022/07/21
-! Homepage: https://cdn.jsdelivr.net/gh/chqiange/Adguard@main/Adguard拦截规则.txt
+! Homepage: https://raw.githubusercontent.com/chqiange/Adguard/main/Adguard拦截规则.txt
 
 bdys01.com##.col-md-7
 bdys01.com##.col-md-5, .d-none, .d-md-block, .d-lg-block, .d-xl-block, .d-xxl-block
