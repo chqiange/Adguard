@@ -19,3 +19,7 @@ dyxs20.com###play-pause
 dyxs20.com###rm-float
 dyxs20.com##.player-rm rm-two rm-list
 blog.luckly-mjw.cn##.m-p-refer
+m.apkpure.com##.js-ad-slot
+missav.com##.plyr__video-wrapper
+missav.com##.space-y-5, .mb-5
+missav.com##.space-y-6, .mb-6
