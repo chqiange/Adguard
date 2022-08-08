@@ -9,7 +9,7 @@ bdys01.com##.col-md-5, .d-none, .d-md-block, .d-lg-block, .d-xl-block, .d-xxl-bl
 bdys01.com##.col-12
 bdys01.com###related
 bdys01.com###yalayi
-jubaibai.cc##.onsusibc_b
+jubaibai.cc##.dancwuga_b
 jubaibai.cc##div.container > div.row > div.stui-pannel > div.t-img-box > a
 dyxs20.com##.popup, .popup-tips, .popupicon, .open
 dyxs20.com##div.shortcuts-mobile-overlay
