@@ -20,6 +20,3 @@ dyxs20.com###rm-float
 dyxs20.com##.player-rm rm-two rm-list
 blog.luckly-mjw.cn##.m-p-refer
 m.apkpure.com##.js-ad-slot
-missav.com##.plyr__video-wrapper
-missav.com##.hidden, .lg\:block
-missav.com##div:nth-child(3) > div.container.mx-auto.px-4.content-without-search.pb-12:nth-child(2) > div.flex > div.flex-1.order-first:last-child > div.under_player:nth-child(4)
