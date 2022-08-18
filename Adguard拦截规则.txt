@@ -1,8 +1,20 @@
 [Adblock Plus 2.0]
 ! Version: 1.0
 ! Title: Adguard自定义拦截规则
-! Last modified: 2022/07/21
+! Last modified: 2022/08/18
 ! Homepage: https://raw.githubusercontent.com/chqiange/Adguard/main/Adguard拦截规则.txt
+! Homepage: https://cdn.staticaly.com/gh/chqiange/Adguard/main/Adguard拦截规则.txt
+! Homepage: https://cdn.jsdelivr.net/gh/chqiange/Adguard@main/Adguard拦截规则.txt
+
+! 2022-08-17 https://jubt.site
+jubt.site##h5.text-gray
+jubt.site##h4.text-gray:nth-of-type(1)
+jubt.site##div.row:nth-of-type(1)
+jubt.site##div.row:nth-of-type(2)
+jubt.site##div.row:nth-of-type(3)
+jubt.site##div.row:nth-of-type(4)
+jubt.site##div.row:nth-of-type(5)
+jubt.site###main-menu > li:nth-of-type(1)
 
 bdys01.com##.col-md-7
 bdys01.com##.col-md-5, .d-none, .d-md-block, .d-lg-block, .d-xl-block, .d-xxl-block
