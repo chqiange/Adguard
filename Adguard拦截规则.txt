@@ -24,6 +24,6 @@ dyxs20.com##.player_pic_box
 dyxs20.com###rm-float
 
 ! 2022-08-17 https://www.jubaibai.cc
-www.jubaibai.cc###HMcoupletDivleft
-www.jubaibai.cc###HMcoupletDivright
-www.jubaibai.cc##.t-img-box > [href]
+jubaibai.cc###HMcoupletDivleft
+jubaibai.cc###HMcoupletDivright
+jubaibai.cc##.t-img-box > [href]
