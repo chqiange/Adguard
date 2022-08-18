@@ -27,3 +27,4 @@ dyxs20.com###rm-float
 jubaibai.cc###HMcoupletDivleft
 jubaibai.cc###HMcoupletDivright
 jubaibai.cc##.t-img-box > [href]
+jubaibai.cc##a.dancwuga_b
