@@ -16,19 +16,11 @@ jubt.site##div.row:nth-of-type(4)
 jubt.site##div.row:nth-of-type(5)
 jubt.site###main-menu > li:nth-of-type(1)
 
-bdys01.com##.col-md-7
-bdys01.com##.col-md-5, .d-none, .d-md-block, .d-lg-block, .d-xl-block, .d-xxl-block
-bdys01.com##.col-12
-bdys01.com###related
-bdys01.com###yalayi
-jubaibai.cc##.dancwuga_b
-jubaibai.cc##div.container > div.row > div.stui-pannel > div.t-img-box > a
-dyxs20.com##.popup, .popup-tips, .popupicon, .open
-dyxs20.com##div.shortcuts-mobile-overlay
+! 2022-08-17 http://dyxs20.com
 dyxs20.com###dy_card_dy
-dyxs20.com##.player-info
-dyxs20.com###play-pause
+dyxs20.com##.open.popup-tips.popup
+dyxs20.com##.shortcuts-mobile-overlay
+dyxs20.com##.tips-box
+dyxs20.com##.rm-list.rm-two.player-rm
+dyxs20.com##.player_pic_box
 dyxs20.com###rm-float
-dyxs20.com##.player-rm rm-two rm-list
-blog.luckly-mjw.cn##.m-p-refer
-m.apkpure.com##.js-ad-slot
