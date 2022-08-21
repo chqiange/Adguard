@@ -28,3 +28,14 @@ jubaibai.cc###HMcoupletDivleft
 jubaibai.cc###HMcoupletDivright
 jubaibai.cc##.t-img-box > [href]
 jubaibai.cc##a.dancwuga_b
+
+! 2022-08-18 https://www.bdys01.com
+www.bdys01.com##.ayx
+www.bdys01.com##.col-md-7
+www.bdys01.com##.d-xxl-block.d-xl-block.d-lg-block.d-md-block.d-none.col-md-5
+
+! 2022-08-20 https://www.ghxi.com
+www.ghxi.com###modules-13
+www.ghxi.com###modules-15
+www.ghxi.com###modules-23
+www.ghxi.com##li.item-sticky.item
