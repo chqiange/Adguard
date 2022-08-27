@@ -39,3 +39,18 @@ www.ghxi.com###modules-13
 www.ghxi.com###modules-15
 www.ghxi.com###modules-23
 www.ghxi.com##li.item-sticky.item
+
+! 2022-08-21 http://blog.luckly-mjw.cn
+blog.luckly-mjw.cn##.m-p-refer
+
+! 2022-08-23 https://www.mpyit.com
+www.mpyit.com##div#post-0.post-0
+www.mpyit.com###post-46727
+www.mpyit.com###post-40879
+www.mpyit.com###post-41471
+www.mpyit.com###post-41303
+www.mpyit.com##h3:nth-of-type(1)
+www.mpyit.com##div.box:nth-of-type(1)
+
+! 2022-08-27 https://www.douban.com
+douban.com##div.center
