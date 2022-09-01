@@ -21,9 +21,9 @@ www.lxapk.com##.article-content > .size-full.wp-block-image
 
 ! 2022-08-31 https://missav.com
 missav.com##.plyr__poster
+missav.com##div.lg\:block.hidden
+missav.com##.ipprtcnt
 missav.com##.under_player
-missav.com##.space-y-5, .mb-5
-missav.com##.mb-6.space-y-6
 missav.com##.mb-5.space-y-5
 
 ! 2022-08-17 https://jubt.site
