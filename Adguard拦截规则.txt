@@ -4,6 +4,22 @@
 ! Last modified: 2022/08/18
 ! Homepage: https://github.com/chqiange/Adguard/raw/main/Adguard拦截规则.txt
 
+! 2022-09-03 https://www.5dy6.vip
+www.5dy6.vip##.container-slide
+www.5dy6.vip##.is_mb
+
+! 2022-09-03 https://dmxq1.com
+dmxq1.com##.container-slide
+dmxq1.com##.is_mb
+
+! 2022-09-03 https://www.czspp.com
+www.czspp.com##.right-ad.ads
+www.czspp.com##.ad.mi_btcon
+
+! 2022-09-03 https://www.subaibaiys.com
+www.subaibaiys.com##.el-dialog__wrapper
+www.subaibaiys.com##.v-modal
+
 ! 2022-08-26 https://www.0598128.com
 www.0598128.com##.html-box
 www.0598128.com##.single-top-html
@@ -45,11 +61,11 @@ dyxs20.com##.rm-list.rm-two.player-rm
 dyxs20.com##.player_pic_box
 dyxs20.com###rm-float
 
-! 2022-08-17 https://www.jubaibai.cc
-jubaibai.cc###HMcoupletDivleft
-jubaibai.cc###HMcoupletDivright
-jubaibai.cc##.t-img-box > [href]
-jubaibai.cc##a.wfoidhez_b
+! 2022-08-17 https://www.jubaibai.top
+jubaibai.top###HMcoupletDivleft
+jubaibai.top###HMcoupletDivright
+jubaibai.top##.t-img-box > [href]
+jubaibai.top##a.wfoidhez_b
 
 ! 2022-08-18 https://www.bdys01.com
 www.bdys01.com##.ayx
